@@ -3,7 +3,7 @@
 ## Overview 
 A tic tac toe game made using 512 bytes to run on the boot sector. This is a boot loader game, and is bootable
 
-Written in x86_64 NASM Assembly!
+Written in x86_64 NASM Assembly! https://www.nasm.us/
 
 ## Setup
 Running the setup.sh script will install all needed programs
