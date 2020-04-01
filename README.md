@@ -1,7 +1,9 @@
 # tic-tac-toe-bootloader
 
 ## Overview 
-A tic tac toe game made using 512 bytes to run on the boot sector. This is a boot loader game, and is bootable 
+A tic tac toe game made using 512 bytes to run on the boot sector. This is a boot loader game, and is bootable
+
+Written in x86_64 NASM Assembly!
 
 ## Setup
 Running the setup.sh script will install all needed programs
